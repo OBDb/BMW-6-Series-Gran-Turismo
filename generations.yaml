@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/BMW_6_Series_Gran_Turismo"
+
+generations:
+  - name: "G32"
+    start_year: 2017
+    end_year: 2023
+    description: "A fastback hatchback on the G30 5 Series platform."
