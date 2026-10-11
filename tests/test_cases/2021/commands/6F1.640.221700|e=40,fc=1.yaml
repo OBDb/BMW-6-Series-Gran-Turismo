@@ -1,0 +1,22 @@
+command_id: 6F1.640.221700|e=40,fc=1
+test_cases:
+- expected_values:
+    SERIES6GT_ODO_2: 51883
+  response: |-
+    640F110076217000000
+    640F121CAABFFFFFFFF
+- expected_values:
+    SERIES6GT_ODO_2: 51903
+  response: |-
+    640F110076217000000
+    640F121CABFFFFFFFFF
+- expected_values:
+    SERIES6GT_ODO_2: 51953
+  response: |-
+    640F110076217000000
+    640F121CAF1FFFFFFFF
+- expected_values:
+    SERIES6GT_ODO_2: 52833
+  response: |-
+    640F110076217000000
+    640F121CE61FFFFFFFF
