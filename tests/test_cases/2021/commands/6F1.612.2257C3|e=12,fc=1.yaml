@@ -1,0 +1,42 @@
+command_id: 6F1.612.2257C3|e=12,fc=1
+test_cases:
+- expected_values:
+    SERIES6GT_OIL_TEMP_ALT: 200
+  response: |-
+    612F110076257C33F30
+    612F121A3D7FFFFFFFF
+- expected_values:
+    SERIES6GT_OIL_TEMP_ALT: 200
+  response: |-
+    612F110076257C33F30
+    612F121A73FFFFFFFFF
+- expected_values:
+    SERIES6GT_OIL_TEMP_ALT: 200
+  response: |-
+    612F110076257C33F30
+    612F121BDC0FFFFFFFF
+- expected_values:
+    SERIES6GT_OIL_TEMP_ALT: 200
+  response: |-
+    612F110076257C33F30
+    612F121F0E1FFFFFFFF
+- expected_values:
+    SERIES6GT_OIL_TEMP_ALT: 200
+  response: |-
+    612F110076257C33F31
+    612F121AFD9FFFFFFFF
+- expected_values:
+    SERIES6GT_OIL_TEMP_ALT: 200
+  response: |-
+    612F110076257C33F32
+    612F1210EF8FFFFFFFF
+- expected_values:
+    SERIES6GT_OIL_TEMP_ALT: 200
+  response: |-
+    612F110076257C33F32
+    612F121602BFFFFFFFF
+- expected_values:
+    SERIES6GT_OIL_TEMP_ALT: 200
+  response: |-
+    612F110076257C33F33
+    612F1210366FFFFFFFF
